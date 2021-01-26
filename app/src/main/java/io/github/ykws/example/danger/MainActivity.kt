@@ -1,7 +1,7 @@
 package io.github.ykws.example.danger
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import io.github.ykws.example.danger.databinding.ActivityMainBinding
 
